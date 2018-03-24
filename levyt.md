@@ -3,8 +3,8 @@
 - **Tuomo**: Anathema - _A Natural Disaster_
 - **Olli**: They Might Be Giants - _Mink Car_
 - **Tommi**: Asa - _Loppuasukas_
-- **Olli-Kalle**: Tool - _Lateralus_
 - **Emi**: Veruca Salt - _Eight Arms to Hold You_
+- **Olli-Kalle**: Tool - _Lateralus_
 - **Simo**: Michael Kiwanuka - _Home Again_
 - **Eeva**: Tuomari Nurmio - __
 - **Maija**: XTC - _Skylarking_
