@@ -1,4 +1,4 @@
-## Levy, joka on tehneet vaikutuksen
+## Maija: Levy, joka on tehneet vaikutuksen
 
 - **Tuomo**: Anathema - _A Natural Disaster_
 - **Olli**: They Might Be Giants - _Mink Car_
@@ -10,6 +10,6 @@
 - **Maija**: XTC - _Skylarking_
 - **Miika**: Green Day - _American Idiot_
 
-## Levy artistilta, jota muut eivät varmaan ole kuulleet
+## Tuomo: Levy artistilta, jota muut eivät varmaan ole kuulleet
 
 - **Olli**: Magnus Moriarty™ - _Perhaps Interior Heart Politeness_
