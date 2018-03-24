@@ -6,7 +6,7 @@
 - **Emi**: Veruca Salt - _Eight Arms to Hold You_
 - **Olli-Kalle**: Tool - _Lateralus_
 - **Simo**: Michael Kiwanuka - _Home Again_
-- **Eeva**: Tuomari Nurmio - __
+- **Eeva**: Tuomari Nurmio - _24 karaattia_
 - **Maija**: XTC - _Skylarking_
 - **Miika**: Green Day - _American Idiot_
 
