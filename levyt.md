@@ -1,4 +1,4 @@
-## Levy, joka on tehnyt vaikutuksen
+## Levy, joka on tehneet vaikutuksen
 
 - **Tuomo**: Anathema - _A Natural Disaster_
 - **Olli**: They Might Be Giants - _Mink Car_
