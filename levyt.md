@@ -1,4 +1,4 @@
-## Maija: Levy, joka on tehneet vaikutuksen
+## Maija: Levy, joka on tehnyt vaikutuksen
 
 - **Tuomo**: Anathema - _A Natural Disaster_
 - **Olli**: They Might Be Giants - _Mink Car_
