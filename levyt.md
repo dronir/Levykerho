@@ -1,0 +1,15 @@
+## Levy, joka on tehnyt vaikutuksen
+
+- Tuomo: Anathema - _A Natural Disaster_
+- Olli: They Might Be Giants - _Mink Car_
+- Tommi: Asa - _Loppuasukas_
+- Olli-Kalle: Tool - _Lateralus_
+- Emi: Veruca Salt - _Eight Arms to Hold You_
+- Simo: Michael Kiwanuka - _Home Again_
+- Eeva: Tuomari Nurmio - __
+- Maija: XTC - _Skylarking_
+- Miika: Green Day - _American Idiot_
+
+## Levy artistilta, jota muut eivät varmaan ole kuulleet
+
+- Olli: Magnus Moriarty™ - _Perhaps Interior Heart Politeness_
