@@ -13,3 +13,19 @@
 ## Tuomo: Levy artistilta, jota muut eivät varmaan ole kuulleet
 
 - **Olli**: Magnus Moriarty™ - _Perhaps Interior Heart Politeness_
+- **Tommi**: Tarmvred - _Viva6581_
+- **Emi**: Lucinda Williams - _West_
+- **Olli-Kalle**: Pallas - _The Sentinel_
+- **Simo**: '68 - _In Humor and Sadness_
+- **Maija**: Golden Gate Quartet - _Golden Gospel_ 
+- **Tuomo**: Raadelma - _Vain mielipuoli päästää kaltaisensa sisään_
+
+## Olli: Vuodenaikalevy
+
+- **Tommi**: Wicker Man soudntrack
+- **Emi**: Unheilig - _Grosse Freiheit_
+- **Olli-Kalle**: Kuusumun profeetta - _Kukin kaappiaan selässään kantaa_
+- **Simo**: Kent - _Isola_
+- **Maija**: Frida Hyvönen - _Silence is Wild_
+- **Tuomo**: Agalloch - _The Mantle_
+- **Olli**: The Volta Sound - _Dandelion Wine_
