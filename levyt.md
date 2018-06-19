@@ -22,7 +22,7 @@
 
 ## Olli: Vuodenaikalevy
 
-- **Tommi**: Wicker Man soudntrack
+- **Tommi**: Magnet - _Wicker Man soundtrack_
 - **Emi**: Unheilig - _Grosse Freiheit_
 - **Olli-Kalle**: Kuusumun profeetta - _Kukin kaappiaan selässään kantaa_
 - **Simo**: Kent - _Isola_
