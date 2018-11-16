@@ -29,3 +29,25 @@
 - **Maija**: Frida Hyvönen - _Silence is Wild_
 - **Tuomo**: Agalloch - _The Mantle_
 - **Olli**: The Volta Sound - _Dandelion Wine_
+- **Eeva**: Tshaikovski - _Pähkinänsärkijä_
+
+## Tommi: Uusi levy
+
+- **Emi**: Dorothy - _ROCKISDEAD_
+- **Olli-Kalle**: King Gizzard and the Lizard Wizard: _Nonagon Infinity_
+- **Maija**: Princess Nokia - _1992 Deluxe_
+- **Tuomo**: Okra Playground - _Ääneni yli vesien_
+- **Olli**: Public Service Broadcasting - _The Race For Space_
+- **Eeva**: Lasten Hautausmaa - _III_
+- **Tommi**: Muuan mies - _Aurinkolaulu_
+
+## Emi: Pop-levy
+
+- **Olli-Kalle**: Mew - _And The Glass Handed Kites_
+- **Maija**: Shakespears Sister - _Hormonally Yours_
+- **Tuomo**: Valma & VarsiNaiset - _Tuli talvi, ei tahottu_
+- **Olli**: Pet Shop Boys - _Super_
+- **Eeva**: _Vain elämää, kausi 7 ensimmäinen kattaus__
+- **Tommi**: Gorillaz - _Demon Days_
+- **Emi**: Charlotte Gainsbourg - _Rest_
+- **Elina**: Sinéad O'Connor - _Lion and the Cobra_
