@@ -49,5 +49,5 @@
 - **Olli**: Pet Shop Boys - _Super_
 - **Eeva**: _Vain elämää, kausi 7 ensimmäinen kattaus__
 - **Tommi**: Gorillaz - _Demon Days_
-- **Emi**: Charlotte Gainsbourg - _Rest_
+- **Joanna**: Charlotte Gainsbourg - _Rest_
 - **Elina**: Sinéad O'Connor - _Lion and the Cobra_
