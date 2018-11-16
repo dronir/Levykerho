@@ -47,7 +47,7 @@
 - **Maija**: Shakespears Sister - _Hormonally Yours_
 - **Tuomo**: Valma & VarsiNaiset - _Tuli talvi, ei tahottu_
 - **Olli**: Pet Shop Boys - _Super_
-- **Eeva**: _Vain elämää, kausi 7 ensimmäinen kattaus__
+- **Eeva**: _Vain elämää, kausi 7 ensimmäinen kattaus_
 - **Tommi**: Gorillaz - _Demon Days_
 - **Joanna**: Charlotte Gainsbourg - _Rest_
 - **Elina**: Sinéad O'Connor - _Lion and the Cobra_
