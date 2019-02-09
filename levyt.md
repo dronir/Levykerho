@@ -66,3 +66,7 @@
 - **Tommi**: The Southern Death Cult - _The Southern Death Cult_
 - **Emi**: Jimi Hendrix - _Are You Experienced_
 - **Olli-Kalle**: Steven Wilson - _The Raven that Refused to Sing (and other stories)_
+
+## Eeva: Hirveimmät/hienoimmat levynkannet
+
+- **Elina**: ?
