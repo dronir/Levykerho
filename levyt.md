@@ -51,3 +51,18 @@
 - **Tommi**: Gorillaz - _Demon Days_
 - **Joanna**: Charlotte Gainsbourg - _Rest_
 - **Elina**: Sinéad O'Connor - _Lion and the Cobra_
+- **Emi**:  Roxette - _Joyride_
+
+## Olli-Kalle: Levy jota et koskaan kuunnellut
+
+- **Eeva**: Fleetwood Mac - _Rumours_
+- **Joanna**: Spleen United - _School of Euphoria_
+- **Elina**: Amorphis - _The Beginning of Times_
+- **Simo**: Beyoncé - _BEYONCÉ_
+- **Harri**: Jess and the Ancient Ones - _Jess and the Ancient Ones_
+- **Maija**: David Bowie - _Blackstar_
+- **Tuomo**: Mogwai - _Happy Songs for Happy People_
+- **Olli**: Pink Floyd - _Piper and the Gates of Dawn_
+- **Tommi**: The Southern Death Cult - _The Southern Death Cult_
+- **Emi**: Jimi Hendrix - _Are You Experienced_
+- **Olli-Kalle**: Steven Wilson - _The Raven that Refused to Sing (and other stories)_
