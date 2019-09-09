@@ -62,7 +62,7 @@
 - **Harri**: Jess and the Ancient Ones - _Jess and the Ancient Ones_
 - **Maija**: David Bowie - _Blackstar_
 - **Tuomo**: Mogwai - _Happy Songs for Happy People_
-- **Olli**: Pink Floyd - _Piper and the Gates of Dawn_
+- **Olli**: Pink Floyd - _Piper at the Gates of Dawn_
 - **Tommi**: The Southern Death Cult - _The Southern Death Cult_
 - **Emi**: Jimi Hendrix - _Are You Experienced_
 - **Olli-Kalle**: Steven Wilson - _The Raven that Refused to Sing (and other stories)_
