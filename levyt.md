@@ -74,7 +74,7 @@
 ## Elina: Luonto
 
 - Muuan Mies - _Elämmekö unessa_
-- Anssi Tikanmäki - _Maisemakuvia Suomesta_
+- **Sami**: Anssi Tikanmäki - _Maisemakuvia Suomesta_
 - The Horrors - _Skying_
 - Gudrun Gut - _Wildlife_
 - **Tuomo**: Nightwish - _Endless Forms Most Beautiful_
