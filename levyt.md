@@ -70,3 +70,24 @@
 ## Eeva: Hirveimmät/hienoimmat levynkannet
 
 - **Elina**: ?
+
+## Elina: Luonto
+
+- Muuan Mies - _Elämmekö unessa_
+- Anssi Tikanmäki - _Maisemakuvia Suomesta_
+- The Horrors - _Skying_
+- Gudrun Gut - _Wildlife_
+- **Tuomo**: Nightwish - _Endless Forms Most Beautiful_
+- **Olli**: Afenginn - _Reptilica Polaris_
+- Tenhi - _Väre_
+- Maxida Märak - _Mountain Songs and Other Stories_
+- Gojira - _From mars to sirius_
+- David Antony Clark - _Terra Inhabitata_
+
+## Kaupunki vs. maaseutu
+
+- **Sami**: Philip Glass - _Koyaanisqatsi_
+- **Simo**: Ismo Alanko - _Kun Suomi putos puusta_
+- **Joel**: Traineater - _The Book of Knots_
+- **Maija**: Litku Klemetti - _Juna Kainuuseen_
+- **Tuomo**: Suistamon Sähkö - _Etkot, pectopaн ja etnoteknoa_
