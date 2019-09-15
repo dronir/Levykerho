@@ -69,14 +69,23 @@
 
 ## Eeva: Hirveimmät/hienoimmat levynkannet
 
-- **Elina**: ?
+- **Elina**: Dead Can Dance: _The Serpent's Egg_
+- Magna Carta Cartel: _Goodmorning Restrained_
+- Infected Mushroom: _The Gathering_
+- **Maija**: Kate Bush: _The Red Shoes_
+- **Tuomo**: PMMP: _Kuulkaas Enot!_
+- **Olli**: Meat Puppets - _Golden Lies_
+- **Tommi**: Paavoharju - _Laulu laakson kukista_
+- Poison - _Flesh and Blood_
+- Haikara - _Haikara_
+- Hällas - _Exceprts from a Future Past_
+- Muuan Mies - _Elämmekö unessa_
 
 ## Elina: Luonto
 
-- Muuan Mies - _Elämmekö unessa_
 - **Sami**: Anssi Tikanmäki - _Maisemakuvia Suomesta_
 - The Horrors - _Skying_
-- Gudrun Gut - _Wildlife_
+- **Maija**: Gudrun Gut - _Wildlife_
 - **Tuomo**: Nightwish - _Endless Forms Most Beautiful_
 - **Olli**: Afenginn - _Reptilica Polaris_
 - Tenhi - _Väre_
@@ -91,3 +100,4 @@
 - **Joel**: Traineater - _The Book of Knots_
 - **Maija**: Litku Klemetti - _Juna Kainuuseen_
 - **Tuomo**: Suistamon Sähkö - _Etkot, pectopaн ja etnoteknoa_
+- **Olli**: Sand Circles - _Motor City_
