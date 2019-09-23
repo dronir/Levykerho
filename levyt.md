@@ -94,7 +94,7 @@
 - **Eeva**: David Antony Clark - _Terra Inhabitata_
 - **Elina**: The Ocean - _Phanerozoic I: Palaeozoic_
 
-## Kaupunki vs. maaseutu
+## Harri: Kaupunki vs. maaseutu
 
 - **Sami**: Philip Glass - _Koyaanisqatsi_
 - **Simo**: Ismo Alanko - _Kun Suomi putos puusta_
