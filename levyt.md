@@ -70,28 +70,29 @@
 ## Eeva: Hirveimmät/hienoimmat levynkannet
 
 - **Elina**: Dead Can Dance: _The Serpent's Egg_
-- Magna Carta Cartel: _Goodmorning Restrained_
-- Infected Mushroom: _The Gathering_
+- **Harri**: Magna Carta Cartel: _Goodmorning Restrained_
+- **Joanna**(?): Infected Mushroom: _The Gathering_
 - **Maija**: Kate Bush: _The Red Shoes_
 - **Tuomo**: PMMP: _Kuulkaas Enot!_
 - **Olli**: Meat Puppets - _Golden Lies_
 - **Tommi**: Paavoharju - _Laulu laakson kukista_
-- Poison - _Flesh and Blood_
-- Haikara - _Haikara_
-- Hällas - _Exceprts from a Future Past_
-- Muuan Mies - _Elämmekö unessa_
+- **Emi**: Poison - _Flesh and Blood_
+- **Olli-Kalle**: Haikara - _Haikara_
+- **Eeva**: Hällas - _Exceprts from a Future Past_
+- **Harri**: Muuan Mies - _Elämmekö unessa_
 
 ## Elina: Luonto
 
 - **Sami**: Anssi Tikanmäki - _Maisemakuvia Suomesta_
-- The Horrors - _Skying_
+- **Joanna**: The Horrors - _Skying_
 - **Maija**: Gudrun Gut - _Wildlife_
 - **Tuomo**: Nightwish - _Endless Forms Most Beautiful_
 - **Olli**: Afenginn - _Reptilica Polaris_
-- Tenhi - _Väre_
-- Maxida Märak - _Mountain Songs and Other Stories_
-- Gojira - _From mars to sirius_
-- David Antony Clark - _Terra Inhabitata_
+- **Tommi**: Tenhi - _Väre_
+- **Emi**: Maxida Märak - _Mountain Songs and Other Stories_
+- **Olli-Kalle**: Gojira - _From mars to sirius_
+- **Eeva**: David Antony Clark - _Terra Inhabitata_
+- **Elina**: The Ocean - _Phanerozoic I: Palaeozoic_
 
 ## Kaupunki vs. maaseutu
 
@@ -101,3 +102,5 @@
 - **Maija**: Litku Klemetti - _Juna Kainuuseen_
 - **Tuomo**: Suistamon Sähkö - _Etkot, pectopaн ja etnoteknoa_
 - **Olli**: Sand Circles - _Motor City_
+- **Tommi**: Detektivbyrån - _Wermland_
+
