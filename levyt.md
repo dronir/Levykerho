@@ -79,10 +79,10 @@
 - **Emi**: Poison - _Flesh and Blood_
 - **Olli-Kalle**: Haikara - _Haikara_
 - **Eeva**: Hällas - _Exceprts from a Future Past_
-- **Harri**: Muuan Mies - _Elämmekö unessa_
 
 ## Elina: Luonto
 
+- **Harri**: Muuan Mies - _Elämmekö unessa_
 - **Sami**: Anssi Tikanmäki - _Maisemakuvia Suomesta_
 - **Joanna**: The Horrors - _Skying_
 - **Maija**: Gudrun Gut - _Wildlife_
