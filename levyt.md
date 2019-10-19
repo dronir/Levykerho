@@ -103,4 +103,6 @@
 - **Tuomo**: Suistamon Sähkö - _Etkot, pectopaн ja etnoteknoa_
 - **Olli**: Sand Circles - _Motor City_
 - **Tommi**: Detektivbyrån - _Wermland_
-
+- **Emi**: Texas Hippie Coalition - _High in the Saddle_
+- **Olli-Kalle**: Alien Weaponry - _Tu_
+- **Eeva**: SMC Lähiörotat - _Ja niin se menee_
