@@ -106,3 +106,5 @@
 - **Emi**: Texas Hippie Coalition - _High in the Saddle_
 - **Olli-Kalle**: Alien Weaponry - _Tu_
 - **Eeva**: SMC Lähiörotat - _Ja niin se menee_
+- **Elina**: Jethro Tull - _Heavy Horses_
+- **Harri**: The Police - _Synchronicity_
