@@ -108,3 +108,9 @@
 - **Eeva**: SMC Lähiörotat - _Ja niin se menee_
 - **Elina**: Jethro Tull - _Heavy Horses_
 - **Harri**: The Police - _Synchronicity_
+
+## Sami: Hyvä levy genrestä jota et muuten kuuntelisi
+
+- **Simo**: The Dead Kennedys - _Fresh Fruit for Rotting Vegetables_
+- **Joel**: NoMeansNo - _Wrong_
+
