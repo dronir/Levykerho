@@ -114,3 +114,9 @@
 - **Simo**: The Dead Kennedys - _Fresh Fruit for Rotting Vegetables_
 - **Joel**: NoMeansNo - _Wrong_
 
+## Livelevy
+
+- **Olli**: Daft Punk - _Alive 2003_
+- **Olli-Kalle**: King Crimson - _Live in Vienna_
+- **Sami**: Miles Davis - _Miles at the Filmore_
+
