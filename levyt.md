@@ -113,10 +113,21 @@
 
 - **Simo**: The Dead Kennedys - _Fresh Fruit for Rotting Vegetables_
 - **Joel**: NoMeansNo - _Wrong_
+- Devin Townsend - _Terria_
+- Mariska - _Memento Mori_
+- **Olli**: Eek-A-Mouse - _Wa-Do-Dem_
+- Jethro Tull: _Christmas Album_
+- Lana Del Ray: _Born To Die_
+- Bruce Springsteen: _Western Stars_
+- **Sami**: Don Johnson Big Band - _Breaking Daylight_
 
 ## Livelevy
 
+- Paris Combo - _Live_
+- **Tuomo**: MONO - _Holy Ground: Live_
 - **Olli**: Daft Punk - _Alive 2003_
+- **Tommi**: Current 93 - _All Dolled Up Like Christ_
+- **Emi**: Devin Townsend - _Retinal Circus_
 - **Olli-Kalle**: King Crimson - _Live in Vienna_
 - **Sami**: Miles Davis - _Miles at the Filmore_
 
