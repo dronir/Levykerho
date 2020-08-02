@@ -135,6 +135,7 @@
 ## Hyvän mielen levy
 
 - Standard Fare: _Out of Sight, out of Town_
+- The Ark: _We are the Ark_
 - **Olli**: Dead Man's Bones - _Dead Man's Bones_
 - **Tommi**: Pepe Deluxe - _Queen of the Wave_
 - **Emi**: The B-52's - _Cosmic Thing_
