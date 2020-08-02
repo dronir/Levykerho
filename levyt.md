@@ -130,9 +130,11 @@
 - **Emi**: Devin Townsend - _Retinal Circus_
 - **Olli-Kalle**: King Crimson - _Live in Vienna_
 - **Sami**: Miles Davis - _Miles at the Filmore_
+- Nirvana: _MTV Unplugged in New York_
 
 ## Hyvän mielen levy
 
+- Standard Fare: _Out of Sight, out of Town_
 - **Olli**: Dead Man's Bones - _Dead Man's Bones_
 - **Tommi**: Pepe Deluxe - _Queen of the Wave_
 - **Emi**: The B-52's - _Cosmic Thing_
@@ -145,7 +147,7 @@
 - **Eeva**: Daft Punk - _Random Access Memories_
 - **Joel**: Snarky Puppy - _We Like It Here_
 
-## Muu kuin englannin- tai suomenkielinen levy
+## Maija: Muu kuin englannin- tai suomenkielinen levy
 
 - **Tuomo**: Trad. Attack! _Make Your Move_
 - **Olli**: Mdou Moctar - _Ilana (The Creator)_
