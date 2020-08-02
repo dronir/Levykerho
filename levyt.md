@@ -131,3 +131,26 @@
 - **Olli-Kalle**: King Crimson - _Live in Vienna_
 - **Sami**: Miles Davis - _Miles at the Filmore_
 
+## Hyvän mielen levy
+
+- **Olli**: Dead Man's Bones - _Dead Man's Bones_
+- **Tommi**: Pepe Deluxe - _Queen of the Wave_
+- **Emi**: The B-52's - _Cosmic Thing_
+- **Olli-Kalle**: Electric Light Orchestra - _Discovery_
+- **Sami**: Devin Townsend - _Ziltoid the Omniscient_
+- **Simo**: Cody Chestnutt - _Landing on a Hundred_
+- **Hanna**: Vulfpeck - _Fugue State_
+- **Elina**: The Vintage Caravan - _Gateways_
+- **Harri**: Röyksopp - _Melody A.M._
+- **Eeva**: Daft Punk - _Random Access Memories_
+- **Joel**: Snarky Puppy - _We Like It Here_
+
+## Muu kuin englannin- tai suomenkielinen levy
+
+- **Tuomo**: Trad. Attack! _Make Your Move_
+- **Olli**: Mdou Moctar - _Ilana (The Creator)_
+- **Tommi**: Gåte - _Iselilja_
+- **Emi**: DOBERMAN - _HOTEI_
+- **Olli-Kalle**: Myrkur - _M_
+- **Sami**: Sigur Rós - _Valtari_
+- **Simo**: João Gilberto - _Chega de Saudade_
