@@ -157,3 +157,4 @@
 - **Olli-Kalle**: Myrkur - _M_
 - **Sami**: Sigur Rós - _Valtari_
 - **Simo**: João Gilberto - _Chega de Saudade_
+- **Elina**: Opeth - _In Cauda Venenum_
