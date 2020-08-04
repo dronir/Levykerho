@@ -121,7 +121,7 @@
 - Bruce Springsteen: _Western Stars_
 - **Sami**: Don Johnson Big Band - _Breaking Daylight_
 
-## Livelevy
+## Simo: Livelevy
 
 - Paris Combo - _Live_
 - **Tuomo**: MONO - _Holy Ground: Live_
@@ -132,7 +132,7 @@
 - **Sami**: Miles Davis - _Miles at the Filmore_
 - Nirvana: _MTV Unplugged in New York_
 
-## Hyvän mielen levy
+## Joel: Hyvän mielen levy
 
 - Standard Fare: _Out of Sight, out of Town_
 - The Ark: _We are the Ark_
