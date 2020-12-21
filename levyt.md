@@ -158,3 +158,14 @@
 - **Sami**: Sigur Rós - _Valtari_
 - **Simo**: João Gilberto - _Chega de Saudade_
 - **Elina**: Opeth - _In Cauda Venenum_
+
+...
+
+## Olli: Fuusio / genresekoitukset
+
+- **Tommi**: Diablo Swing Orchestra - _Pandora's Piñata_
+- **Emi**: Body Count - _Bloodlust_
+- **Olli-Kalle**: Voyager IV - _Pictures at an Expedition_
+- **Eeva**: _Reggae-virsiä_
+- **Sami**: Alamaailman vasarat - _Vasaraasia_
+- **Katko**: Suistamon sähkö - _Suistamon sähkö_
