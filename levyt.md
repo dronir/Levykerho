@@ -161,7 +161,7 @@
 - Édith Piaf - _20 Greatest Hits_
 - Kino - _Последний герой_
 
-## Tuomo(?): Nuoruusaikojen levy
+## Tuomo: Nuoruusaikojen levy
 
 - **Olli**: Jean-Michel Jarre: _Les Concerts en Chine_
 - Nightwish - _Wishmaster_
