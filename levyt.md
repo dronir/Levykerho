@@ -164,8 +164,15 @@
 ## Tuomo(?): Nuoruusaikojen levy
 
 - **Olli**: Jean-Michel Jarre: _Les Concerts en Chine_
-...
-
+- Nightwish - _Wishmaster_
+- Marilyn Manson - _Antichrist Superstar_
+- Placebo - _Placebo_
+- Metallica - _Metallica_
+- Queen - _Queen II_
+- Amorphis - _Tales from the Thousand Lakes_
+- Luukas Oja - _Väritetty todellisuus_
+- Belle & Sebastian - _Fold Your Hands Child, You Walk Like a Peasant_
+- Clamour - _Ihana_
 
 ## Olli: Fuusio / genresekoitukset
 
