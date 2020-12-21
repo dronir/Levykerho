@@ -158,8 +158,14 @@
 - **Sami**: Sigur Rós - _Valtari_
 - **Simo**: João Gilberto - _Chega de Saudade_
 - **Elina**: Opeth - _In Cauda Venenum_
+- Édith Piaf - _20 Greatest Hits_
+- Kino - _Последний герой_
 
+## Tuomo(?): Nuoruusaikojen levy
+
+- **Olli**: Jean-Michel Jarre: _Les Concerts en Chine_
 ...
+
 
 ## Olli: Fuusio / genresekoitukset
 
