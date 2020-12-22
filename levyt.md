@@ -125,7 +125,7 @@
 
 - Paris Combo - _Live_
 - **Tuomo**: MONO - _Holy Ground: Live_
-- **Olli**: Daft Punk - _Alive 2003_
+- **Olli**: Daft Punk - _Alive 2007_
 - **Tommi**: Current 93 - _All Dolled Up Like Christ_
 - **Emi**: Devin Townsend - _Retinal Circus_
 - **Olli-Kalle**: King Crimson - _Live in Vienna_
