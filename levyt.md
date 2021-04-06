@@ -182,3 +182,20 @@
 - **Eeva**: _Reggae-virsiä_
 - **Sami**: Alamaailman vasarat - _Vasaraasia_
 - **Katko**: Suistamon sähkö - _Suistamon sähkö_
+- Hot 8 Brass Band - _Rock With the Hot 8_
+- VIRTA - _Hurmos_
+- **Olli**: Zeal & Ardor - _Devil Is Fine_
+
+## Tommi: Aivan himmee assosiaatioketju
+
+- **Emi**: King 810 - _Suicide King_
+- **Olli-Kalle**: Winny Puhh - _Kes küsib?_
+- **Simo**: Wolf Eyes - _Human Animal_
+- **Elina**: Bassic - _Daydreamer_
+- **Eeva**: Lustre - _The Ashes of Light_
+- **Sami**: MASTER BOOT RECORD - `C:\>COPY *.* A: /V`
+- **Katko**: Carpenter Brut - _Trilogy_
+- **Hanna**: Hatari -  _Neyslutrans_
+- **Maija**: Silvana Imam - _Naturkraft_
+- **Tuomo**: Antti Paalanen - _Rujo_
+- **Olli**: Kimmo Pohjonen - _Kluster_
