@@ -117,7 +117,7 @@
 - Mariska - _Memento Mori_
 - **Olli**: Eek-A-Mouse - _Wa-Do-Dem_
 - Jethro Tull: _Christmas Album_
-- Lana Del Ray: _Born To Die_
+- **Eeva**: Lana Del Ray: _Born To Die_
 - Bruce Springsteen: _Western Stars_
 - **Sami**: Don Johnson Big Band - _Breaking Daylight_
 
@@ -158,7 +158,7 @@
 - **Sami**: Sigur Rós - _Valtari_
 - **Simo**: João Gilberto - _Chega de Saudade_
 - **Elina**: Opeth - _In Cauda Venenum_
-- Édith Piaf - _20 Greatest Hits_
+- **Eeva**: Édith Piaf - _20 Greatest Hits_
 - Kino - _Последний герой_
 
 ## Tuomo: Nuoruusaikojen levy
@@ -169,7 +169,7 @@
 - Placebo - _Placebo_
 - Metallica - _Metallica_
 - Queen - _Queen II_
-- Amorphis - _Tales from the Thousand Lakes_
+- **Eeva**: Amorphis - _Tales from the Thousand Lakes_
 - Luukas Oja - _Väritetty todellisuus_
 - Belle & Sebastian - _Fold Your Hands Child, You Walk Like a Peasant_
 - Clamour - _Ihana_
