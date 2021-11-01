@@ -205,4 +205,9 @@
 
 ## Olli-Kalle: Soundtrack
 
-## Eeva: Värit
+## Elina: Värit
+
+- **Eeva**: Rainbow - _Long Live Rock N Roll_
+- **Jaakko**: Laurie Anderson - _Bright Red_
+- **Maija**: Magenta Skycode - _IIIII_
+- **Tuomo**: Daniel Cavanagh - _Monochrome_
