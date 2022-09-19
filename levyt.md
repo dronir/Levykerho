@@ -219,9 +219,24 @@
 
 ## Olli-Kalle: Soundtrack
 
+- **Elina**: Queen - _Flash Gordon (Remastered)_
+- **Eeva**: Various Artists - _Days of Thunder (Soundtrack)_
+- **Katko**: Realms of Odoric - _Second Age(Original Score)_
+- **??**: Fabio Fuso - _Delta_
+- **Jaakko**: Aesop Rock - _Bushwick (Original Motion Picture Soundtrack)_
+- **Sami**: Pink Floyd - _Dark Side of the Moon (2011 Remastered Version)_ (nauti Wizard of Ozin kanssa synkassa)
+- **Maija**: Various artists - _Marie Antoinette (Original Motion Picture Soundtrack)_
+- **Tuomo**: Tuomas Holopainen - _The Life And Times of Scrooge_
+- **Olli**: Hainbach - _Bruderkrieg_
+- **Emi**: Various artists - _Alice: Madness Returns (Original Videogame Soundtrack)_
+- **Tommi**:  Cleaning Women - _Aelita_
+- **Olli-Kalle**: Hans Zimmer - _Dune (Original Motion Picture Soundtrack)_
+
 ## Elina: Värit
 
 - **Eeva**: Rainbow - _Long Live Rock N Roll_
 - **Jaakko**: Laurie Anderson - _Bright Red_
 - **Maija**: Magenta Skycode - _IIIII_
 - **Tuomo**: Daniel Cavanagh - _Monochrome_
+- **Olli-Kalle**: Goblin / George Gaslini - _Profondo Rosso (Gold Tracks) [Colonna sonora originale del film]_
+
