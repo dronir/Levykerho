@@ -199,9 +199,23 @@
 - **Maija**: Silvana Imam - _Naturkraft_
 - **Tuomo**: Antti Paalanen - _Rujo_
 - **Olli**: Kimmo Pohjonen - _Kluster_
-- **Tommi**: 
+- **Tommi**: Sephiroth - _Draconian Poetry_
 
 ## Emi: Levy, jolla ärsyttää naapureita
+
+- **Olli-Kalle**: Tchaikovski - _1812 Overture_
+- **Simo**: Oasis - _(What's the Story?)Morning Glory(over-extended edition?)_
+- **Elina**: Uriah Heep - _Salisbury(Expanded edition)_
+- **Eeva**: Turmion Kätilöt - _Dance Panique_
+- **Katko**: Bal-Sagoth - _The Chthonic Chronicles_
+- **Harri**: El Migu - _Uus visio EP_
+- **Katri**: Neurotech - _The Catalyst_
+- **Jaakko**: Anaal Nathrakh - _Endarkenment_
+- **Maija**: Alien Sex Fiend - _The Best of Alien Sex Fiend_
+- **Tuomo**: Sara - _SUMMA_
+- **Olli**: 100 gecs - _1000 gecs_
+- **Tommi** Corvus Corax - _Viator_
+- **Emi** Panzer AG - _This Is My Battlefield_
 
 ## Olli-Kalle: Soundtrack
 
