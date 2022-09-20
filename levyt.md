@@ -256,3 +256,14 @@
 - **Olli-Kalle**: Grateful Dead - _Anthem of the Sun (2013 Remaster)_
 - **Elina**: Galt McDermot / Tom Pierson - _Hair_
 - **Eeva**: D.O.A. - _War and Peace_
+
+## Jaakko: Syylliset nautinnot
+
+- **Katko**: Seitsemän Seinähullua Veljestä - _Tähtisarja - 30 Suosikkia_
+- **Maija**: Agit-Prop - _Agit-Propin kvartetti laulaa työväenlauluja_
+- **Tuomo**: Moppi Ja Aivokurkiaiset - _Homorakkautta_ 
+- **Tommi**: Bal-Sagoth - _The Power Cosmic_
+- **Emi**: Helalyn Flowers - _A Voluntary Coincidence_
+- **Olli-Kalle**: Alice - _Elisir_
+- **Eeva**: Scooter - _Encore - Live and Direct_
+- **Jaakko**: Hildegard von Bingen / Richard Souther - _Vision / The Music of Hildegard von Bingen_
