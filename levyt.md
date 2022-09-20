@@ -267,3 +267,15 @@
 - **Olli-Kalle**: Alice - _Elisir_
 - **Eeva**: Scooter - _Encore - Live and Direct_
 - **Jaakko**: Hildegard von Bingen / Richard Souther - _Vision / The Music of Hildegard von Bingen_
+
+## Katko: Levy jonka kuuntelet (n.) kerran vuodessa
+
+- **Maija**: Johann Sebastian Bach / Ophélie Gaillard - _Bach: Suites pour Violoncelle Seul (Intégrale)_
+- **Tuomo**: Juice Leskinen - _Sinä_
+- **Tommi**: Hedningarna - _TRÄ_
+- **Emi**: Tori Amos - _Midwinter Graces_
+- **Olli-Kalle**: Erna Tauro & Bo Andersson - _Höstvisa_
+- **Eeva**: Seminaarimäen Mieslaulajat - _Hakkaan Sun Ovee_
+- **Elina**: Dire Straits - _Brothers in Arms (Remastered 1996)_
+- **Jaakko**: CMX - _Veljeskunta / Tanssitauti_
+- **Katko**: Yoko Shimomura - _FINAL FANTASY XV Original Soundtrack_
