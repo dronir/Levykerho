@@ -250,7 +250,7 @@
 - **Katko**: Verjnuarmu - _1808_
 - **Maija**: Belle and Sebastian - _Girls in Peacetime Want to Dance_
 - **Tuomo**: The Cranberries - _Bury the Hatchet_
-- **Olli??**: PJ Harvey - _Let England Shake_
+- **Olli**: PJ Harvey - _Let England Shake_
 - **Tommi**: Laibach - _NATO_
 - **Emi**: Megadeth - _Rust in Peace_
 - **Olli-Kalle**: Grateful Dead - _Anthem of the Sun (2013 Remaster)_
@@ -279,3 +279,16 @@
 - **Elina**: Dire Straits - _Brothers in Arms (Remastered 1996)_
 - **Jaakko**: CMX - _Veljeskunta / Tanssitauti_
 - **Katko**: Yoko Shimomura - _FINAL FANTASY XV Original Soundtrack_
+
+## Maija: Johdanto musiikkiin avaruuden muukalaiselle
+
+- **Tuomo**: MONO - _For My Parents_
+- **Tommi**: Björk - _Medúlla_
+- **Emi**: Natacha Atlas - _Diaspora_
+- **Olli-Kalle**: Magma - _Attahk (Remastered)_
+- **Jaakko**: Various Real World Artists - _30: Real World At WOMAD (Real World Gold)_
+- **Eeva**: M.A. Numminen - _Suosituimmat Lastenlaulut_
+- **Katko**: Tiluland - _Axes of the Universe_
+- **Sami**: Carbon Based Lifeforms - _World of Sleepers_
+- **Maija**: Ingunn Bjørgo Band - _Borderland - Grenseland_
+
