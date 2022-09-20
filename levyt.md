@@ -222,7 +222,7 @@
 - **Elina**: Queen - _Flash Gordon (Remastered)_
 - **Eeva**: Various Artists - _Days of Thunder (Soundtrack)_
 - **Katko**: Realms of Odoric - _Second Age(Original Score)_
-- **??**: Fabio Fuso - _Delta_
+- **Katri??**: Fabio Fuso - _Delta_
 - **Jaakko**: Aesop Rock - _Bushwick (Original Motion Picture Soundtrack)_
 - **Sami**: Pink Floyd - _Dark Side of the Moon (2011 Remastered Version)_ (nauti Wizard of Ozin kanssa synkassa)
 - **Maija**: Various artists - _Marie Antoinette (Original Motion Picture Soundtrack)_
@@ -238,5 +238,21 @@
 - **Jaakko**: Laurie Anderson - _Bright Red_
 - **Maija**: Magenta Skycode - _IIIII_
 - **Tuomo**: Daniel Cavanagh - _Monochrome_
+- **Olli**: Michael Brook - _Cobalt Blue_
+- **Tommi**: The Legendary Pink Dots - _Maria Dimension_
+- **Emi**: Type O Negative - _October Rust_
 - **Olli-Kalle**: Goblin / George Gaslini - _Profondo Rosso (Gold Tracks) [Colonna sonora originale del film]_
+- **Elina**: Baroness - _Yellow & Green_
 
+## Eeva: Sota & Rauha
+
+- **Jaakko**: 1914 - _Where Fear and Weapons Meet_
+- **Katko**: Verjnuarmu - _1808_
+- **Maija**: Belle and Sebastian - _Girls in Peacetime Want to Dance_
+- **Tuomo**: The Cranberries - _Bury the Hatchet_
+- **Olli??**: PJ Harvey - _Let England Shake_
+- **Tommi**: Laibach - _NATO_
+- **Emi**: Megadeth - _Rust in Peace_
+- **Olli-Kalle**: Grateful Dead - _Anthem of the Sun (2013 Remaster)_
+- **Elina**: Galt McDermot / Tom Pierson - _Hair_
+- **Eeva**: D.O.A. - _War and Peace_
