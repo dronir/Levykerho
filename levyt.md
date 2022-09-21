@@ -98,7 +98,7 @@
 
 - **Sami**: Philip Glass - _Koyaanisqatsi_
 - **Simo**: Ismo Alanko - _Kun Suomi putos puusta_
-- **Joel**: The Book of Knots: _Traineater_ 
+- **Joel**: The Book of Knots -  _Traineater_ 
 - **Maija**: Litku Klemetti - _Juna Kainuuseen_
 - **Tuomo**: Suistamon Sähkö - _Etkot, pectopaн ja etnoteknoa_
 - **Olli**: Sand Circles - _Motor City_
